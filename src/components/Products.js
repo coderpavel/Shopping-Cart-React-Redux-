@@ -22,7 +22,7 @@ export default class Products extends Component {
             <div className="row">
                 {productItems}
             </div>
-        )
+        );
     }
 }
 
